@@ -6,6 +6,19 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiyuzhang0522&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyuzhang0522&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shiyuzhang0522&hide_border=true"/>
+</p>
+
+---
+
 ## 🔬 Research Interests
 - 🧬 Germline genetic architecture of complex traits
 - 🧪 Single-cell and multi-omics integration in human disease   
