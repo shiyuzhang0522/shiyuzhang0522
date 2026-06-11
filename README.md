@@ -42,6 +42,16 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 
 ---
 
+## 🔧 Analytic Pipelines
+- 🔗 [WGS Variant Calling](https://github.com/shiyuzhang0522/WGS_Variant_Calling) 🔀
+
+---
+
+## 🎯 Funny Toolbox
+- 🔗 [Stop Refreshing Your Manuscript](https://github.com/shiyuzhang0522/stop-refreshing-your-manuscript) 😄
+
+---
+
 ## 🌱 A little more about me
 ✨ **Brave · Energetic · Creative** ✨  
 💥 Obsessed with decoding how genetic variation shapes biology — from molecules to populations  
