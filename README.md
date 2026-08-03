@@ -47,6 +47,13 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 
 ---
 
+## 📚 Resources
+Curated GRCh38-based resources for LDSC workflows and downstream genetic correlation analyses.
+
+- 🔗 [shiyuzhang0522/LDSC-GRCh38-Based-Resources.git](https://github.com/shiyuzhang0522/LDSC-GRCh38-Based-Resources.git)
+
+---
+
 ## 🎯 Funny Toolbox
 - 🔗 [Stop Refreshing Your Manuscript](https://github.com/shiyuzhang0522/stop-refreshing-your-manuscript) 😄
 
