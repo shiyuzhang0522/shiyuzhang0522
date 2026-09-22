@@ -22,12 +22,12 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 ## 🔬 Research Interests
 - 🧬 Germline genetic architecture of complex traits
 - 🧪 Single-cell and multi-omics integration in human disease   
-- 🛡️ Tumor–immune interactions & biology underlying immunotherapy response  
+- 🔎 Context-dependent genetic regulation  
 
 ---
 
 ## 🛠️ Methods & Tools
-- 🧩 Multi-omics: GWAS · WGS · spatial transcriptomics · metabolomics · proteomics  
+- 🧩 Multi-omics: GWAS · Rare-Variant Association Testing (RVAT)· WGS · spatial transcriptomics · metabolomics · proteomics  
 - 💻 Computational: R · Python · Bash  
 - ☁️ Infrastructure: HPC & cloud-based biobank-scale analysis  
 
@@ -44,6 +44,7 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 
 ## 🔧 Analytic Pipelines
 - 🔗 [WGS Variant Calling](https://github.com/shiyuzhang0522/WGS_Variant_Calling) 🔀
+- 🔗 [GWAS & RVAT on a Cloud-based platform](https://github.com/shiyuzhang0522/Genomics.England.CloudOS.GWAS.RVAT.REGENIE.Pipeline) 🔀
 
 ---
 
