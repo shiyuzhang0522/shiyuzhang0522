@@ -48,6 +48,16 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 
 ---
 
+## 🤖 Genomics Skills
+
+Reusable AI-agent workflows for genomics research, available in [Shelley's Genomics Skills](https://github.com/shiyuzhang0522/Shelley-s_Genomics_Skills).
+
+- 1️⃣ **[NG Figure](https://github.com/shiyuzhang0522/Shelley-s_Genomics_Skills/blob/main/skills/ng-figure/SKILL.md)** — Create and refine Nature Genetics-style figures from data or plotting scripts, with editable PDFs for Illustrator and macOS.
+- 2️⃣ **[SpaCET to gsMap](https://github.com/shiyuzhang0522/Shelley-s_Genomics_Skills/blob/main/skills/spacet/SKILL.md)** — Estimate malignant, immune, and stromal fractions from tumor spatial transcriptomics and prepare aligned inputs for gsMap.
+- 3️⃣ **[gsMap](https://github.com/shiyuzhang0522/Shelley-s_Genomics_Skills/blob/main/skills/gsmap/SKILL.md)** — Integrate spatial gene expression with GWAS summary statistics to identify trait-associated spatial patterns and regions.
+
+---
+
 ## 📚 Resources
 Curated GRCh38-based resources for LDSC workflows and downstream genetic correlation analyses.
 
