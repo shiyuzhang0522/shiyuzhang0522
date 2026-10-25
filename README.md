@@ -9,13 +9,23 @@ I work on population genetics and multi-omics data analysis, driven by a deep fa
 ## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=shiyuzhang0522&hide_border=true"
-      alt="Shiyu Zhang's GitHub contribution streak"
-    />
+  <a href="https://github.com/shiyuzhang0522?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=shiyuzhang0522&amp;show_icons=true&amp;hide_rank=true&amp;show=contributions&amp;card_width=490&amp;line_height=25&amp;border_radius=12&amp;disable_animations=true&amp;custom_title=Open-source%20activity&amp;bg_color=161b22&amp;title_color=80b8b5&amp;text_color=c9d1d9&amp;icon_color=80b8b5&amp;border_color=30363d" />
+      <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shiyuzhang0522&amp;show_icons=true&amp;hide_rank=true&amp;show=contributions&amp;card_width=490&amp;line_height=25&amp;border_radius=12&amp;disable_animations=true&amp;custom_title=Open-source%20activity&amp;bg_color=f6f8fa&amp;title_color=337c80&amp;text_color=425466&amp;icon_color=337c80&amp;border_color=d8e2e8" alt="Shelley's public GitHub activity: stars, commits, pull requests, issues, contributed repositories, and total contributions" />
+    </picture>
+  </a>
+  <a href="https://github.com/shiyuzhang0522?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=shiyuzhang0522&amp;layout=donut&amp;langs_count=6&amp;card_width=440&amp;border_radius=12&amp;disable_animations=true&amp;custom_title=Languages%20across%20my%20repositories&amp;bg_color=161b22&amp;title_color=80b8b5&amp;text_color=c9d1d9&amp;icon_color=80b8b5&amp;border_color=30363d" />
+      <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shiyuzhang0522&amp;layout=donut&amp;langs_count=6&amp;card_width=440&amp;border_radius=12&amp;disable_animations=true&amp;custom_title=Languages%20across%20my%20repositories&amp;bg_color=f6f8fa&amp;title_color=337c80&amp;text_color=425466&amp;icon_color=337c80&amp;border_color=d8e2e8" alt="Language distribution by code size across Shelley's public, non-forked repositories" />
+    </picture>
   </a>
 </div>
+
+<p align="center">
+  <sub>Public GitHub activity · Language shares reflect repository code size.</sub>
+</p>
 
 ---
 
